@@ -1,5 +1,5 @@
-const useGithubAvatar = false; // true = use GitHub | false = use local image
-const githubUsername = "kenned-candido"; // GitHub User
+const useGithubAvatar = true; // true = use GitHub | false = use local image
+const githubUsername = "davidmacalister"; // GitHub User
 const localImagePath = "assets/images/profile.png"; // Local image path
 
 // Select profile picture
